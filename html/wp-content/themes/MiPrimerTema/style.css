@@ -14,5 +14,14 @@ Use it to make something cool, have fun, and share what you've learned with othe
 */
 
 body {
-    background-color: #00aadc;
+    background-color: #9adc00;
 }
+
+#header {
+    background: url("http://localhost:8080/wp-content/themes/MiPrimerTema/images/totoro.jpeg")
+    no-repeat bottom center;
+}
+#headerimg  {
+    margin: 7px 9px 0;
+    height: 192px;
+    width: 740px; }
